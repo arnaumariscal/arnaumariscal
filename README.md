@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Arnau! <br/><a href="https://github.com/arnaumariscal">Data Analyst</a>, <a href="www.linkedin.com/in/mariscalarnau">Data Manager, Research Coordinator</a>
 
-<!--
-**arnaumariscal/arnaumariscal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>R </b>
+  - [Data cleaning for REDCap data import]
+  - [RNASeq pipeline]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Python</b>
+  - [Chest X-Ray Classification using Convolutional Neural Networks (CNNs)]
+
+[orcid]: https://orcid.org/0009-0000-3729-2068
+[linkedin]: www.linkedin.com/in/mariscalarnau
