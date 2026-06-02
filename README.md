@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arnau! <br/><a href="https://github.com/arnaumariscal">Data Manager</a>, <a href="https://www.linkedin.com/in/mariscalarnau">Biostatistician</a>
+<h1>Hi, I'm Arnau! <br/><a href="https://github.com/arnaumariscal">Data Manager</a>
 
 <h2>Projects:</h2>
 
